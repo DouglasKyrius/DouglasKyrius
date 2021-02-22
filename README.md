@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DouglasKyrius&show_icons=true&theme=radical&count_private=true&hide_title+true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DouglasKyrius&show_icons=true&theme=dark&count_private=true&hide_title=true" />
 </div>
 
 ![](https://komarev.com/ghpvc/?username=DouglasKyrius)
